@@ -1,3 +1,12 @@
+# 💫 Hi 👋, I'm Piyush Jain
+**Aspiring Data Analyst**
+
+Email Me 👉 ✉️ **piyush.ppjj@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Data Visualization Dashboards
+- 🌱 **I’m currently learning:** Data Analysis
+- 👯 **I’m looking to collaborate on:** Case Studies
+- ⚡ **Fun fact:** I love to execute challenging ideas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-jain-62b7b5234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyush.ppjj@gmail.com) 
